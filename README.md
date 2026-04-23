@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to control a **Stepper Motor (28BYJ-48)** using an **Arduino Uno** and **ULN2003 driver module**.
 
-![ghgh]()
+![ghgh](image.jpeg)
 
 The motor:
 - Rotates **clockwise**
